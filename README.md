@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
+  <!-- Banner -->
+  <img src="https://i.imgur.com/gKHehfW.png" width="100%" alt="banner" />
 
-<!--
-**Joaovct07/Joaovct07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Olá! Eu sou João 👋</h1>
+  <p>Estudante de Engenharia de Software — em aprendizado constante. Aqui compartilho o que aprendo e pequenos exercícios.</p>
 
-Here are some ideas to get you started:
+  <p>
+    🟢 Status: Online &nbsp;&middot;&nbsp; ✉️ joao24082007@gmail.com
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+- 🎓 Engenharia de Software — 1º período  
+- 📚 Interesse: desenvolvimento web, automação e algoritmos  
+- 📫 Contato: joao24082007@gmail.com
+
+---
+
+## 🛠 Tecnologias & Ferramentas (estou aprendendo)
+
+- HTML, CSS, JavaScript  
+- Python, Java  
+- Git, GitHub, VS Code
+
+---
+
+## 📚 O que estou aprendendo
+
+- Fundamentos de HTML, CSS e JavaScript  
+- Conceitos de Git e GitHub (controle de versão)  
+- Lógica de programação (Python / Java)  
+- Boas práticas de documentação e README
+
+---
+
+## 🚀 GitHub Status
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joaovct07&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joaovct07&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joaovct07&theme=github_dark" />
+
+</div>
+
+---
+
+## 🛠 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+</p>
+
+---
+
+
+## 💬 Quer falar comigo?
+
+- ✉️ Email: joao24082007@gmail.com  
+
+---
+
+<div align="center">
+  <p>Obrigado pela visita! 👋</p>
+</div>
